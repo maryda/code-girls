@@ -1,0 +1,123 @@
+.cabecera{
+	background:#F9F1F1;
+	height: 80px;
+}
+
+
+
+.code{
+	font-size: 25px;
+	padding-top: 20px;
+}
+
+
+.menu{
+	display: table-cell;
+	
+}
+
+a{
+	
+	color:#151414;
+	margin: 28px;
+	position: relative;
+	bottom: -26px;
+	left: 151px;
+	text-decoration: none;}
+
+
+
+	.f-celeste{
+		background-image: url(../img/home.jpg);
+		background-repeat: no-repeat;
+		height: 620px;
+	}
+	.p-chicas{
+		color: #FFFFFF;
+		padding-top: 248px;
+		text-align: center;
+	}
+
+	.p-participa{
+		color:#151414;
+		padding-left: 488px;
+		font-size: 17px;
+	}
+
+	.btn{
+		background:#0865FA;
+		color: #FFFFFF;
+		font-size: 21px;
+		width: 140px;
+		position: relative;
+		left: 500px;
+		left: 553px;
+	}
+
+
+
+	.code-girls{
+		margin-left: 146px;
+		margin-bottom: 31px;
+	}
+
+	.f-amarillo{
+		background: #F6FA08;
+		height: 420px;
+	}
+
+	.love{
+		
+		margin-top: 13%;
+		margin-left: 8%;
+		width: 70%;
+	}
+
+	.ins{
+		background:#0865FA;
+		color: #FFFFFF;
+
+	}
+
+
+	.hackaton{
+		font-size: 30px;
+		margin-top: 60px;
+		margin-left: 60px;
+	}
+
+	.p-hackaton1{
+		margin-top: 19px;
+
+
+	}
+
+	.p-hackaton2{
+		margin-top: 9px;
+	}
+
+	.formulario{
+		width: 310px;
+	}
+
+	.enviar{
+		background:#0865FA;
+		color: #FFFFFF;
+		width: 94px;
+		height: 37px;
+
+	}
+
+	.pie-pag{
+		background: #0865FA;
+		height: 50px;
+		margin-top: 63px;
+	}
+
+	.pie{
+		color: #FFFFFF;
+		font-size: 12px;
+		padding-top: 19px;
+		margin: 45px;
+
+	}
